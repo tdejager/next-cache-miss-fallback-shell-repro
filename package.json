@@ -1,0 +1,16 @@
+{
+  "name": "next-cache-miss-fallback-shell-repro",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.4.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "playwright": "1.64.0"
+  }
+}
